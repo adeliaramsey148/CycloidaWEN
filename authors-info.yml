@@ -4,12 +4,10 @@ header: |
   This work is the result of the effort of many people around the world.
   Contributors are listed in alphabetical order by GitHub login.
 
-  Some contributors are also assigned roles as maintainers.
   They have kindly agreed to review and help update future contributions for the translation or section they own.
 
 footer: |
   Numbers link to commits/issues.
-  For simplicity, this file is maintained only in English.
 
   If your name does not appear as you would like it above, verify your name on your GitHub profile.
   Also confirm that your commits are using the correct e-mail to it is linked to your profile.
@@ -63,7 +61,6 @@ groups:
   - name: Maintainers
     members:
     -  jlevy
-    -  ceoaliongroo
     -  doublemarket
     -  Ungsik-Yun
     -  niltonvasques
